@@ -1,0 +1,164 @@
+{
+  "verified_at": "2026-11-13T19:01:59.239851+07:00",
+  "status": "passed",
+  "search_cases": [
+    {
+      "query": "天井",
+      "kind": "kanji",
+      "returned_kanji": [
+        "井"
+      ],
+      "expected_top1": "井",
+      "query_expansion": null,
+      "passed": true
+    },
+    {
+      "query": "Tinh",
+      "kind": "han_viet",
+      "returned_kanji": [
+        "精",
+        "井",
+        "丼",
+        "情",
+        "並",
+        "省"
+      ],
+      "expected_top1": null,
+      "query_expansion": null,
+      "passed": true
+    },
+    {
+      "query": "TỈNH",
+      "kind": "han_viet",
+      "returned_kanji": [
+        "井",
+        "省",
+        "丼",
+        "情",
+        "精",
+        "並"
+      ],
+      "expected_top1": "井",
+      "query_expansion": null,
+      "passed": true
+    },
+    {
+      "query": "cây thông",
+      "kind": "semantic",
+      "returned_kanji": [
+        "松"
+      ],
+      "expected_top1": "松",
+      "query_expansion": null,
+      "passed": true
+    },
+    {
+      "query": "cay thong",
+      "kind": "semantic",
+      "returned_kanji": [
+        "松"
+      ],
+      "expected_top1": "松",
+      "query_expansion": null,
+      "passed": true
+    },
+    {
+      "query": "cây nhiều lá",
+      "kind": "semantic",
+      "returned_kanji": [
+        "松",
+        "杉",
+        "桜"
+      ],
+      "expected_top1": "松",
+      "query_expansion": {
+        "variant_count": 1,
+        "selected_variant": "cây nhiều lá",
+        "method": "Source-derived accent expansion; top similarity heuristic, not verified accent restoration."
+      },
+      "passed": true
+    },
+    {
+      "query": "cay nhieu la",
+      "kind": "semantic",
+      "returned_kanji": [
+        "松",
+        "権",
+        "極"
+      ],
+      "expected_top1": "松",
+      "query_expansion": {
+        "variant_count": 9,
+        "selected_variant": "cây nhiều là",
+        "method": "Source-derived accent expansion; top similarity heuristic, not verified accent restoration."
+      },
+      "passed": true
+    },
+    {
+      "query": "miễn thuế",
+      "kind": "semantic",
+      "returned_kanji": [
+        "免"
+      ],
+      "expected_top1": "免",
+      "query_expansion": null,
+      "passed": true
+    },
+    {
+      "query": "mien thue",
+      "kind": "semantic",
+      "returned_kanji": [
+        "免"
+      ],
+      "expected_top1": "免",
+      "query_expansion": null,
+      "passed": true
+    },
+    {
+      "query": "Cái giếng 2 tầng",
+      "kind": "mnemonic",
+      "returned_kanji": [
+        "井"
+      ],
+      "expected_top1": "井",
+      "query_expansion": null,
+      "passed": true
+    },
+    {
+      "query": "cai gieng 2 tang",
+      "kind": "mnemonic",
+      "returned_kanji": [
+        "井"
+      ],
+      "expected_top1": "井",
+      "query_expansion": null,
+      "passed": true
+    },
+    {
+      "query": "giong cai gieng",
+      "kind": "mnemonic",
+      "returned_kanji": [
+        "井"
+      ],
+      "expected_top1": "井",
+      "query_expansion": null,
+      "passed": true
+    },
+    {
+      "query": "chu co tan la rong",
+      "kind": "mnemonic",
+      "returned_kanji": [
+        "松"
+      ],
+      "expected_top1": "松",
+      "query_expansion": null,
+      "passed": true
+    }
+  ],
+  "single_handwriting_cell": true,
+  "spelling_suggestions": true,
+  "lesson_filter": true,
+  "cross_origin_post_rejected": true,
+  "private_corpus_not_served_as_static_asset": true,
+  "method": "Live HTTP requests using real local E5 and persistent Qdrant; source-known regression, not an independent benchmark."
+}

@@ -1,4 +1,4 @@
-strategy,chunking,chunk_size,overlap,metadata,filter,vectorizer,hypothesis,dev_hit1,dev_hit3,test_hit1,test_hit3,notes
-A,,,,,,,,,,,,
-B,,,,,,,,,,,,
-C,,,,,,,,,,,,
+strategy,hypothesis,chunking,size_chars,overlap_chars,filter,controlled_comparison,declared_before_retrieval
+A,Small fixed windows may split reading and meaning,fixed within Kanji entry,220,40,none,A versus B changes chunking,true
+B,Whole Kanji entry preserves context,one complete Kanji entry,,,none,B versus C changes filter only,true
+C,Lesson filter reduces out of scope matches,one complete Kanji entry,,,lesson supplied in question,B versus C changes filter only,true

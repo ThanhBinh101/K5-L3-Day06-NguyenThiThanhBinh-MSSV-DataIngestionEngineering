@@ -1,0 +1,16 @@
+{
+  "verified_at": "2026-11-13T17:17:45.394532+07:00",
+  "frozen_inputs_valid": true,
+  "retrieval_runs": 60,
+  "top3_records": 180,
+  "metric_labels_recomputed": true,
+  "b_c_text_identical": true,
+  "c_filters_verified": true,
+  "persistent_counts": {
+    "A": 774,
+    "B": 454,
+    "C": 454
+  },
+  "blank_student_labels_rejected": true,
+  "student_review_complete": false
+}

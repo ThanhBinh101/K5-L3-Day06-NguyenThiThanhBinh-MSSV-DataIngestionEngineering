@@ -1,0 +1,17 @@
+{
+  "model": "intfloat/multilingual-e5-small",
+  "dimensions": 384,
+  "metric": "cosine",
+  "device": "cpu",
+  "batch_size": 16,
+  "max_tokens": 512,
+  "query_prefix": "query: ",
+  "document_prefix": "passage: ",
+  "strategies": {
+    "A": {"chunking": "fixed_chars_within_entry", "size": 220, "overlap": 40, "metadata_filter": false},
+    "B": {"chunking": "whole_kanji_entry", "metadata_filter": false},
+    "C": {"chunking": "whole_kanji_entry", "metadata_filter": true}
+  },
+  "selection_rule": "On dev only: maximize Evidence Hit@3, then Hit@1, then smaller chunk count, then prefer B over C over A. Freeze before test. No tuning on test.",
+  "coherence_sampling": "First 10 included pages sorted by PDF page; anchor at last vocabulary word. For A choose earliest chunk containing anchor. B/C same source anchors."
+}

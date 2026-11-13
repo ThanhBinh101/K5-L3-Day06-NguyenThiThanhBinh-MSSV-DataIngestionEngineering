@@ -1,0 +1,3818 @@
+{
+  "source_id": "kanji_n2_kaori",
+  "title": "KANJI N2 - Kaori Sensei",
+  "author_as_printed": "Kaori Sensei",
+  "source_path_or_url": "data/raw/KANJI N2.pdf",
+  "original_input": "/Users/eroheta/Documents/K5-L3-Day06-NguyenThiThanhBinh-MSSV-DataIngestionEngineering/data/raw/KANJI N2.pdf",
+  "accessed_at": "2026-11-13T17:09:46.245052+07:00",
+  "sha256": "0d720e9a79d6b86ca74326083d7c1bb87dc2a245c5f7c4e0e44e4a7f15bd5fa5",
+  "physical_pages": 473,
+  "included_content_pages": 454,
+  "counted_pages": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    170,
+    172,
+    173,
+    174,
+    175,
+    176,
+    177,
+    178,
+    179,
+    180,
+    181,
+    182,
+    183,
+    184,
+    185,
+    186,
+    187,
+    188,
+    189,
+    190,
+    191,
+    192,
+    193,
+    194,
+    195,
+    196,
+    197,
+    198,
+    200,
+    201,
+    202,
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209,
+    210,
+    211,
+    212,
+    213,
+    214,
+    215,
+    216,
+    217,
+    218,
+    219,
+    220,
+    221,
+    222,
+    223,
+    224,
+    225,
+    226,
+    228,
+    229,
+    230,
+    231,
+    232,
+    233,
+    234,
+    235,
+    236,
+    237,
+    238,
+    239,
+    240,
+    241,
+    242,
+    243,
+    244,
+    245,
+    246,
+    247,
+    248,
+    249,
+    250,
+    251,
+    252,
+    253,
+    254,
+    255,
+    256,
+    257,
+    259,
+    260,
+    261,
+    262,
+    263,
+    264,
+    265,
+    266,
+    267,
+    268,
+    269,
+    270,
+    271,
+    272,
+    273,
+    274,
+    275,
+    276,
+    277,
+    278,
+    279,
+    280,
+    281,
+    282,
+    283,
+    284,
+    285,
+    286,
+    287,
+    288,
+    289,
+    290,
+    291,
+    292,
+    293,
+    294,
+    295,
+    296,
+    297,
+    299,
+    300,
+    301,
+    302,
+    303,
+    304,
+    305,
+    306,
+    307,
+    308,
+    309,
+    310,
+    311,
+    312,
+    313,
+    314,
+    315,
+    316,
+    317,
+    318,
+    319,
+    320,
+    321,
+    322,
+    323,
+    324,
+    325,
+    326,
+    327,
+    328,
+    329,
+    331,
+    332,
+    333,
+    334,
+    335,
+    336,
+    337,
+    338,
+    339,
+    340,
+    341,
+    342,
+    343,
+    344,
+    345,
+    346,
+    347,
+    348,
+    349,
+    350,
+    351,
+    352,
+    353,
+    354,
+    355,
+    356,
+    357,
+    358,
+    360,
+    361,
+    362,
+    363,
+    364,
+    365,
+    366,
+    367,
+    368,
+    369,
+    370,
+    371,
+    372,
+    373,
+    374,
+    375,
+    376,
+    377,
+    378,
+    379,
+    380,
+    381,
+    382,
+    383,
+    384,
+    385,
+    386,
+    387,
+    389,
+    390,
+    391,
+    392,
+    393,
+    394,
+    395,
+    396,
+    397,
+    398,
+    399,
+    400,
+    401,
+    402,
+    403,
+    404,
+    405,
+    406,
+    407,
+    408,
+    409,
+    410,
+    411,
+    412,
+    414,
+    415,
+    416,
+    417,
+    418,
+    419,
+    420,
+    421,
+    422,
+    423,
+    424,
+    425,
+    426,
+    427,
+    428,
+    429,
+    430,
+    431,
+    432,
+    433,
+    434,
+    435,
+    436,
+    437,
+    439,
+    440,
+    441,
+    442,
+    443,
+    444,
+    445,
+    446,
+    447,
+    448,
+    449,
+    450,
+    451,
+    452,
+    453,
+    454,
+    455,
+    456,
+    457,
+    458,
+    459,
+    460,
+    461,
+    462,
+    463,
+    464,
+    465,
+    466,
+    467,
+    468,
+    469,
+    470,
+    471,
+    472
+  ],
+  "excluded_pages": [
+    1,
+    2,
+    3,
+    31,
+    59,
+    87,
+    115,
+    143,
+    171,
+    199,
+    227,
+    258,
+    298,
+    330,
+    359,
+    388,
+    413,
+    438,
+    473
+  ],
+  "page_count_rule": "Count Kanji study pages with readings, mnemonic and vocabulary. Exclude cover, TOC, 16 lesson overviews and closing notes; blank writing cells add no pages.",
+  "license_or_permission": {
+    "processing": "Sensei biên soạn; học viên xác nhận ngày 2026-11-13 đã được sensei cho phép sử dụng cho lab và gửi lại công cụ để sensei dùng thử.",
+    "redistribution": "Cho phép sử dụng theo xác nhận của học viên; chưa xác nhận quyền phát hành công khai PDF. Giữ PDF/corpus/vector store local, chia sẻ bản dùng thử với sensei.",
+    "attribution": "PDF p473 credits JMdict/EDRDG CC BY-SA 4.0 for vocabulary-derived data. This does not establish a license for the whole PDF.",
+    "reference_urls": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "https://www.edrdg.org/edrdg/licence.html"
+    ]
+  },
+  "normalized_char_count": 150746,
+  "page_units": [
+    {
+      "page_id": "kanji_n2_kaori:p001",
+      "page": 1,
+      "normalized_char_count": 201,
+      "included": false,
+      "reason": "cover_toc_lesson_overview_or_notes"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p002",
+      "page": 2,
+      "normalized_char_count": 521,
+      "included": false,
+      "reason": "cover_toc_lesson_overview_or_notes"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p003",
+      "page": 3,
+      "normalized_char_count": 112,
+      "included": false,
+      "reason": "cover_toc_lesson_overview_or_notes"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p004",
+      "page": 4,
+      "normalized_char_count": 322,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p005",
+      "page": 5,
+      "normalized_char_count": 384,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p006",
+      "page": 6,
+      "normalized_char_count": 305,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p007",
+      "page": 7,
+      "normalized_char_count": 304,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p008",
+      "page": 8,
+      "normalized_char_count": 329,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p009",
+      "page": 9,
+      "normalized_char_count": 387,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p010",
+      "page": 10,
+      "normalized_char_count": 312,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p011",
+      "page": 11,
+      "normalized_char_count": 324,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p012",
+      "page": 12,
+      "normalized_char_count": 334,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p013",
+      "page": 13,
+      "normalized_char_count": 350,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p014",
+      "page": 14,
+      "normalized_char_count": 346,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p015",
+      "page": 15,
+      "normalized_char_count": 334,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p016",
+      "page": 16,
+      "normalized_char_count": 327,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p017",
+      "page": 17,
+      "normalized_char_count": 304,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p018",
+      "page": 18,
+      "normalized_char_count": 289,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p019",
+      "page": 19,
+      "normalized_char_count": 324,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p020",
+      "page": 20,
+      "normalized_char_count": 329,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p021",
+      "page": 21,
+      "normalized_char_count": 346,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p022",
+      "page": 22,
+      "normalized_char_count": 351,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p023",
+      "page": 23,
+      "normalized_char_count": 331,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p024",
+      "page": 24,
+      "normalized_char_count": 312,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p025",
+      "page": 25,
+      "normalized_char_count": 339,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p026",
+      "page": 26,
+      "normalized_char_count": 336,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p027",
+      "page": 27,
+      "normalized_char_count": 319,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p028",
+      "page": 28,
+      "normalized_char_count": 337,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p029",
+      "page": 29,
+      "normalized_char_count": 353,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p030",
+      "page": 30,
+      "normalized_char_count": 341,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p031",
+      "page": 31,
+      "normalized_char_count": 112,
+      "included": false,
+      "reason": "cover_toc_lesson_overview_or_notes"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p032",
+      "page": 32,
+      "normalized_char_count": 367,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p033",
+      "page": 33,
+      "normalized_char_count": 328,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p034",
+      "page": 34,
+      "normalized_char_count": 302,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p035",
+      "page": 35,
+      "normalized_char_count": 317,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p036",
+      "page": 36,
+      "normalized_char_count": 335,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p037",
+      "page": 37,
+      "normalized_char_count": 300,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p038",
+      "page": 38,
+      "normalized_char_count": 335,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p039",
+      "page": 39,
+      "normalized_char_count": 321,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p040",
+      "page": 40,
+      "normalized_char_count": 324,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p041",
+      "page": 41,
+      "normalized_char_count": 327,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p042",
+      "page": 42,
+      "normalized_char_count": 336,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p043",
+      "page": 43,
+      "normalized_char_count": 334,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p044",
+      "page": 44,
+      "normalized_char_count": 320,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p045",
+      "page": 45,
+      "normalized_char_count": 341,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p046",
+      "page": 46,
+      "normalized_char_count": 351,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p047",
+      "page": 47,
+      "normalized_char_count": 365,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p048",
+      "page": 48,
+      "normalized_char_count": 352,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p049",
+      "page": 49,
+      "normalized_char_count": 305,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p050",
+      "page": 50,
+      "normalized_char_count": 333,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p051",
+      "page": 51,
+      "normalized_char_count": 349,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p052",
+      "page": 52,
+      "normalized_char_count": 332,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p053",
+      "page": 53,
+      "normalized_char_count": 351,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p054",
+      "page": 54,
+      "normalized_char_count": 310,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p055",
+      "page": 55,
+      "normalized_char_count": 357,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p056",
+      "page": 56,
+      "normalized_char_count": 323,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p057",
+      "page": 57,
+      "normalized_char_count": 311,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p058",
+      "page": 58,
+      "normalized_char_count": 294,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p059",
+      "page": 59,
+      "normalized_char_count": 112,
+      "included": false,
+      "reason": "cover_toc_lesson_overview_or_notes"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p060",
+      "page": 60,
+      "normalized_char_count": 324,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p061",
+      "page": 61,
+      "normalized_char_count": 334,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p062",
+      "page": 62,
+      "normalized_char_count": 305,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p063",
+      "page": 63,
+      "normalized_char_count": 344,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p064",
+      "page": 64,
+      "normalized_char_count": 351,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p065",
+      "page": 65,
+      "normalized_char_count": 327,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p066",
+      "page": 66,
+      "normalized_char_count": 329,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p067",
+      "page": 67,
+      "normalized_char_count": 313,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p068",
+      "page": 68,
+      "normalized_char_count": 329,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p069",
+      "page": 69,
+      "normalized_char_count": 317,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p070",
+      "page": 70,
+      "normalized_char_count": 324,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p071",
+      "page": 71,
+      "normalized_char_count": 300,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p072",
+      "page": 72,
+      "normalized_char_count": 328,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p073",
+      "page": 73,
+      "normalized_char_count": 323,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p074",
+      "page": 74,
+      "normalized_char_count": 325,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p075",
+      "page": 75,
+      "normalized_char_count": 322,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p076",
+      "page": 76,
+      "normalized_char_count": 374,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p077",
+      "page": 77,
+      "normalized_char_count": 340,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p078",
+      "page": 78,
+      "normalized_char_count": 368,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p079",
+      "page": 79,
+      "normalized_char_count": 363,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p080",
+      "page": 80,
+      "normalized_char_count": 315,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p081",
+      "page": 81,
+      "normalized_char_count": 327,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p082",
+      "page": 82,
+      "normalized_char_count": 362,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p083",
+      "page": 83,
+      "normalized_char_count": 317,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p084",
+      "page": 84,
+      "normalized_char_count": 338,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p085",
+      "page": 85,
+      "normalized_char_count": 358,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p086",
+      "page": 86,
+      "normalized_char_count": 341,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p087",
+      "page": 87,
+      "normalized_char_count": 112,
+      "included": false,
+      "reason": "cover_toc_lesson_overview_or_notes"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p088",
+      "page": 88,
+      "normalized_char_count": 337,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p089",
+      "page": 89,
+      "normalized_char_count": 324,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p090",
+      "page": 90,
+      "normalized_char_count": 336,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p091",
+      "page": 91,
+      "normalized_char_count": 316,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p092",
+      "page": 92,
+      "normalized_char_count": 354,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p093",
+      "page": 93,
+      "normalized_char_count": 329,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p094",
+      "page": 94,
+      "normalized_char_count": 338,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p095",
+      "page": 95,
+      "normalized_char_count": 329,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p096",
+      "page": 96,
+      "normalized_char_count": 298,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p097",
+      "page": 97,
+      "normalized_char_count": 315,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p098",
+      "page": 98,
+      "normalized_char_count": 328,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p099",
+      "page": 99,
+      "normalized_char_count": 349,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p100",
+      "page": 100,
+      "normalized_char_count": 336,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p101",
+      "page": 101,
+      "normalized_char_count": 349,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p102",
+      "page": 102,
+      "normalized_char_count": 313,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p103",
+      "page": 103,
+      "normalized_char_count": 346,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p104",
+      "page": 104,
+      "normalized_char_count": 365,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p105",
+      "page": 105,
+      "normalized_char_count": 325,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p106",
+      "page": 106,
+      "normalized_char_count": 305,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p107",
+      "page": 107,
+      "normalized_char_count": 348,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p108",
+      "page": 108,
+      "normalized_char_count": 311,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p109",
+      "page": 109,
+      "normalized_char_count": 369,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p110",
+      "page": 110,
+      "normalized_char_count": 295,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p111",
+      "page": 111,
+      "normalized_char_count": 315,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p112",
+      "page": 112,
+      "normalized_char_count": 293,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p113",
+      "page": 113,
+      "normalized_char_count": 345,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p114",
+      "page": 114,
+      "normalized_char_count": 355,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p115",
+      "page": 115,
+      "normalized_char_count": 112,
+      "included": false,
+      "reason": "cover_toc_lesson_overview_or_notes"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p116",
+      "page": 116,
+      "normalized_char_count": 300,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p117",
+      "page": 117,
+      "normalized_char_count": 352,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p118",
+      "page": 118,
+      "normalized_char_count": 322,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p119",
+      "page": 119,
+      "normalized_char_count": 346,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p120",
+      "page": 120,
+      "normalized_char_count": 325,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p121",
+      "page": 121,
+      "normalized_char_count": 358,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p122",
+      "page": 122,
+      "normalized_char_count": 332,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p123",
+      "page": 123,
+      "normalized_char_count": 345,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p124",
+      "page": 124,
+      "normalized_char_count": 339,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p125",
+      "page": 125,
+      "normalized_char_count": 339,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p126",
+      "page": 126,
+      "normalized_char_count": 324,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p127",
+      "page": 127,
+      "normalized_char_count": 272,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p128",
+      "page": 128,
+      "normalized_char_count": 338,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p129",
+      "page": 129,
+      "normalized_char_count": 349,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p130",
+      "page": 130,
+      "normalized_char_count": 289,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p131",
+      "page": 131,
+      "normalized_char_count": 377,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p132",
+      "page": 132,
+      "normalized_char_count": 312,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p133",
+      "page": 133,
+      "normalized_char_count": 314,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p134",
+      "page": 134,
+      "normalized_char_count": 347,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p135",
+      "page": 135,
+      "normalized_char_count": 334,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p136",
+      "page": 136,
+      "normalized_char_count": 328,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p137",
+      "page": 137,
+      "normalized_char_count": 329,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p138",
+      "page": 138,
+      "normalized_char_count": 289,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p139",
+      "page": 139,
+      "normalized_char_count": 332,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p140",
+      "page": 140,
+      "normalized_char_count": 338,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p141",
+      "page": 141,
+      "normalized_char_count": 345,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p142",
+      "page": 142,
+      "normalized_char_count": 314,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p143",
+      "page": 143,
+      "normalized_char_count": 112,
+      "included": false,
+      "reason": "cover_toc_lesson_overview_or_notes"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p144",
+      "page": 144,
+      "normalized_char_count": 349,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p145",
+      "page": 145,
+      "normalized_char_count": 348,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p146",
+      "page": 146,
+      "normalized_char_count": 329,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p147",
+      "page": 147,
+      "normalized_char_count": 299,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p148",
+      "page": 148,
+      "normalized_char_count": 335,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p149",
+      "page": 149,
+      "normalized_char_count": 338,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p150",
+      "page": 150,
+      "normalized_char_count": 342,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p151",
+      "page": 151,
+      "normalized_char_count": 385,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p152",
+      "page": 152,
+      "normalized_char_count": 320,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p153",
+      "page": 153,
+      "normalized_char_count": 353,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p154",
+      "page": 154,
+      "normalized_char_count": 312,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p155",
+      "page": 155,
+      "normalized_char_count": 312,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p156",
+      "page": 156,
+      "normalized_char_count": 334,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p157",
+      "page": 157,
+      "normalized_char_count": 393,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p158",
+      "page": 158,
+      "normalized_char_count": 339,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p159",
+      "page": 159,
+      "normalized_char_count": 362,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p160",
+      "page": 160,
+      "normalized_char_count": 318,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p161",
+      "page": 161,
+      "normalized_char_count": 328,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p162",
+      "page": 162,
+      "normalized_char_count": 380,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p163",
+      "page": 163,
+      "normalized_char_count": 340,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p164",
+      "page": 164,
+      "normalized_char_count": 340,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p165",
+      "page": 165,
+      "normalized_char_count": 338,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p166",
+      "page": 166,
+      "normalized_char_count": 317,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p167",
+      "page": 167,
+      "normalized_char_count": 296,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p168",
+      "page": 168,
+      "normalized_char_count": 338,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p169",
+      "page": 169,
+      "normalized_char_count": 323,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p170",
+      "page": 170,
+      "normalized_char_count": 317,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p171",
+      "page": 171,
+      "normalized_char_count": 112,
+      "included": false,
+      "reason": "cover_toc_lesson_overview_or_notes"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p172",
+      "page": 172,
+      "normalized_char_count": 362,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p173",
+      "page": 173,
+      "normalized_char_count": 372,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p174",
+      "page": 174,
+      "normalized_char_count": 376,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p175",
+      "page": 175,
+      "normalized_char_count": 315,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p176",
+      "page": 176,
+      "normalized_char_count": 345,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p177",
+      "page": 177,
+      "normalized_char_count": 316,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p178",
+      "page": 178,
+      "normalized_char_count": 328,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p179",
+      "page": 179,
+      "normalized_char_count": 310,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p180",
+      "page": 180,
+      "normalized_char_count": 290,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p181",
+      "page": 181,
+      "normalized_char_count": 340,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p182",
+      "page": 182,
+      "normalized_char_count": 315,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p183",
+      "page": 183,
+      "normalized_char_count": 322,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p184",
+      "page": 184,
+      "normalized_char_count": 283,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p185",
+      "page": 185,
+      "normalized_char_count": 349,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p186",
+      "page": 186,
+      "normalized_char_count": 324,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p187",
+      "page": 187,
+      "normalized_char_count": 303,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p188",
+      "page": 188,
+      "normalized_char_count": 297,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p189",
+      "page": 189,
+      "normalized_char_count": 379,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p190",
+      "page": 190,
+      "normalized_char_count": 303,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p191",
+      "page": 191,
+      "normalized_char_count": 337,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p192",
+      "page": 192,
+      "normalized_char_count": 331,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p193",
+      "page": 193,
+      "normalized_char_count": 314,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p194",
+      "page": 194,
+      "normalized_char_count": 308,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p195",
+      "page": 195,
+      "normalized_char_count": 329,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p196",
+      "page": 196,
+      "normalized_char_count": 335,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p197",
+      "page": 197,
+      "normalized_char_count": 331,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p198",
+      "page": 198,
+      "normalized_char_count": 321,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p199",
+      "page": 199,
+      "normalized_char_count": 112,
+      "included": false,
+      "reason": "cover_toc_lesson_overview_or_notes"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p200",
+      "page": 200,
+      "normalized_char_count": 338,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p201",
+      "page": 201,
+      "normalized_char_count": 296,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p202",
+      "page": 202,
+      "normalized_char_count": 333,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p203",
+      "page": 203,
+      "normalized_char_count": 338,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p204",
+      "page": 204,
+      "normalized_char_count": 324,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p205",
+      "page": 205,
+      "normalized_char_count": 326,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p206",
+      "page": 206,
+      "normalized_char_count": 385,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p207",
+      "page": 207,
+      "normalized_char_count": 320,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p208",
+      "page": 208,
+      "normalized_char_count": 354,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p209",
+      "page": 209,
+      "normalized_char_count": 335,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p210",
+      "page": 210,
+      "normalized_char_count": 319,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p211",
+      "page": 211,
+      "normalized_char_count": 324,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p212",
+      "page": 212,
+      "normalized_char_count": 396,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p213",
+      "page": 213,
+      "normalized_char_count": 367,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p214",
+      "page": 214,
+      "normalized_char_count": 336,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p215",
+      "page": 215,
+      "normalized_char_count": 313,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p216",
+      "page": 216,
+      "normalized_char_count": 320,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p217",
+      "page": 217,
+      "normalized_char_count": 331,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p218",
+      "page": 218,
+      "normalized_char_count": 326,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p219",
+      "page": 219,
+      "normalized_char_count": 333,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p220",
+      "page": 220,
+      "normalized_char_count": 304,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p221",
+      "page": 221,
+      "normalized_char_count": 330,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p222",
+      "page": 222,
+      "normalized_char_count": 349,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p223",
+      "page": 223,
+      "normalized_char_count": 323,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p224",
+      "page": 224,
+      "normalized_char_count": 315,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p225",
+      "page": 225,
+      "normalized_char_count": 303,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p226",
+      "page": 226,
+      "normalized_char_count": 349,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p227",
+      "page": 227,
+      "normalized_char_count": 118,
+      "included": false,
+      "reason": "cover_toc_lesson_overview_or_notes"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p228",
+      "page": 228,
+      "normalized_char_count": 303,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p229",
+      "page": 229,
+      "normalized_char_count": 327,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p230",
+      "page": 230,
+      "normalized_char_count": 339,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p231",
+      "page": 231,
+      "normalized_char_count": 364,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p232",
+      "page": 232,
+      "normalized_char_count": 336,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p233",
+      "page": 233,
+      "normalized_char_count": 368,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p234",
+      "page": 234,
+      "normalized_char_count": 338,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p235",
+      "page": 235,
+      "normalized_char_count": 305,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p236",
+      "page": 236,
+      "normalized_char_count": 342,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p237",
+      "page": 237,
+      "normalized_char_count": 322,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p238",
+      "page": 238,
+      "normalized_char_count": 362,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p239",
+      "page": 239,
+      "normalized_char_count": 364,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p240",
+      "page": 240,
+      "normalized_char_count": 345,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p241",
+      "page": 241,
+      "normalized_char_count": 317,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p242",
+      "page": 242,
+      "normalized_char_count": 326,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p243",
+      "page": 243,
+      "normalized_char_count": 297,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p244",
+      "page": 244,
+      "normalized_char_count": 338,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p245",
+      "page": 245,
+      "normalized_char_count": 307,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p246",
+      "page": 246,
+      "normalized_char_count": 311,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p247",
+      "page": 247,
+      "normalized_char_count": 300,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p248",
+      "page": 248,
+      "normalized_char_count": 348,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p249",
+      "page": 249,
+      "normalized_char_count": 379,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p250",
+      "page": 250,
+      "normalized_char_count": 308,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p251",
+      "page": 251,
+      "normalized_char_count": 322,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p252",
+      "page": 252,
+      "normalized_char_count": 318,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p253",
+      "page": 253,
+      "normalized_char_count": 357,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p254",
+      "page": 254,
+      "normalized_char_count": 344,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p255",
+      "page": 255,
+      "normalized_char_count": 340,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p256",
+      "page": 256,
+      "normalized_char_count": 356,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p257",
+      "page": 257,
+      "normalized_char_count": 371,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p258",
+      "page": 258,
+      "normalized_char_count": 137,
+      "included": false,
+      "reason": "cover_toc_lesson_overview_or_notes"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p259",
+      "page": 259,
+      "normalized_char_count": 323,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p260",
+      "page": 260,
+      "normalized_char_count": 371,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p261",
+      "page": 261,
+      "normalized_char_count": 350,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p262",
+      "page": 262,
+      "normalized_char_count": 323,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p263",
+      "page": 263,
+      "normalized_char_count": 334,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p264",
+      "page": 264,
+      "normalized_char_count": 372,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p265",
+      "page": 265,
+      "normalized_char_count": 328,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p266",
+      "page": 266,
+      "normalized_char_count": 377,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p267",
+      "page": 267,
+      "normalized_char_count": 328,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p268",
+      "page": 268,
+      "normalized_char_count": 329,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p269",
+      "page": 269,
+      "normalized_char_count": 393,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p270",
+      "page": 270,
+      "normalized_char_count": 319,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p271",
+      "page": 271,
+      "normalized_char_count": 339,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p272",
+      "page": 272,
+      "normalized_char_count": 349,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p273",
+      "page": 273,
+      "normalized_char_count": 295,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p274",
+      "page": 274,
+      "normalized_char_count": 333,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p275",
+      "page": 275,
+      "normalized_char_count": 334,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p276",
+      "page": 276,
+      "normalized_char_count": 306,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p277",
+      "page": 277,
+      "normalized_char_count": 354,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p278",
+      "page": 278,
+      "normalized_char_count": 296,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p279",
+      "page": 279,
+      "normalized_char_count": 314,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p280",
+      "page": 280,
+      "normalized_char_count": 359,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p281",
+      "page": 281,
+      "normalized_char_count": 357,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p282",
+      "page": 282,
+      "normalized_char_count": 365,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p283",
+      "page": 283,
+      "normalized_char_count": 326,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p284",
+      "page": 284,
+      "normalized_char_count": 331,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p285",
+      "page": 285,
+      "normalized_char_count": 326,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p286",
+      "page": 286,
+      "normalized_char_count": 347,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p287",
+      "page": 287,
+      "normalized_char_count": 375,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p288",
+      "page": 288,
+      "normalized_char_count": 350,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p289",
+      "page": 289,
+      "normalized_char_count": 338,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p290",
+      "page": 290,
+      "normalized_char_count": 326,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p291",
+      "page": 291,
+      "normalized_char_count": 355,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p292",
+      "page": 292,
+      "normalized_char_count": 306,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p293",
+      "page": 293,
+      "normalized_char_count": 316,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p294",
+      "page": 294,
+      "normalized_char_count": 324,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p295",
+      "page": 295,
+      "normalized_char_count": 335,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p296",
+      "page": 296,
+      "normalized_char_count": 291,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p297",
+      "page": 297,
+      "normalized_char_count": 358,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p298",
+      "page": 298,
+      "normalized_char_count": 121,
+      "included": false,
+      "reason": "cover_toc_lesson_overview_or_notes"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p299",
+      "page": 299,
+      "normalized_char_count": 311,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p300",
+      "page": 300,
+      "normalized_char_count": 313,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p301",
+      "page": 301,
+      "normalized_char_count": 366,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p302",
+      "page": 302,
+      "normalized_char_count": 298,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p303",
+      "page": 303,
+      "normalized_char_count": 329,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p304",
+      "page": 304,
+      "normalized_char_count": 358,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p305",
+      "page": 305,
+      "normalized_char_count": 369,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p306",
+      "page": 306,
+      "normalized_char_count": 380,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p307",
+      "page": 307,
+      "normalized_char_count": 349,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p308",
+      "page": 308,
+      "normalized_char_count": 366,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p309",
+      "page": 309,
+      "normalized_char_count": 343,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p310",
+      "page": 310,
+      "normalized_char_count": 293,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p311",
+      "page": 311,
+      "normalized_char_count": 318,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p312",
+      "page": 312,
+      "normalized_char_count": 322,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p313",
+      "page": 313,
+      "normalized_char_count": 350,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p314",
+      "page": 314,
+      "normalized_char_count": 341,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p315",
+      "page": 315,
+      "normalized_char_count": 341,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p316",
+      "page": 316,
+      "normalized_char_count": 315,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p317",
+      "page": 317,
+      "normalized_char_count": 313,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p318",
+      "page": 318,
+      "normalized_char_count": 330,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p319",
+      "page": 319,
+      "normalized_char_count": 322,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p320",
+      "page": 320,
+      "normalized_char_count": 351,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p321",
+      "page": 321,
+      "normalized_char_count": 319,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p322",
+      "page": 322,
+      "normalized_char_count": 330,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p323",
+      "page": 323,
+      "normalized_char_count": 382,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p324",
+      "page": 324,
+      "normalized_char_count": 330,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p325",
+      "page": 325,
+      "normalized_char_count": 323,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p326",
+      "page": 326,
+      "normalized_char_count": 360,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p327",
+      "page": 327,
+      "normalized_char_count": 303,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p328",
+      "page": 328,
+      "normalized_char_count": 319,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p329",
+      "page": 329,
+      "normalized_char_count": 345,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p330",
+      "page": 330,
+      "normalized_char_count": 115,
+      "included": false,
+      "reason": "cover_toc_lesson_overview_or_notes"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p331",
+      "page": 331,
+      "normalized_char_count": 333,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p332",
+      "page": 332,
+      "normalized_char_count": 279,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p333",
+      "page": 333,
+      "normalized_char_count": 304,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p334",
+      "page": 334,
+      "normalized_char_count": 356,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p335",
+      "page": 335,
+      "normalized_char_count": 312,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p336",
+      "page": 336,
+      "normalized_char_count": 310,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p337",
+      "page": 337,
+      "normalized_char_count": 318,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p338",
+      "page": 338,
+      "normalized_char_count": 306,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p339",
+      "page": 339,
+      "normalized_char_count": 331,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p340",
+      "page": 340,
+      "normalized_char_count": 309,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p341",
+      "page": 341,
+      "normalized_char_count": 355,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p342",
+      "page": 342,
+      "normalized_char_count": 317,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p343",
+      "page": 343,
+      "normalized_char_count": 352,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p344",
+      "page": 344,
+      "normalized_char_count": 324,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p345",
+      "page": 345,
+      "normalized_char_count": 313,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p346",
+      "page": 346,
+      "normalized_char_count": 367,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p347",
+      "page": 347,
+      "normalized_char_count": 357,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p348",
+      "page": 348,
+      "normalized_char_count": 339,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p349",
+      "page": 349,
+      "normalized_char_count": 362,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p350",
+      "page": 350,
+      "normalized_char_count": 309,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p351",
+      "page": 351,
+      "normalized_char_count": 357,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p352",
+      "page": 352,
+      "normalized_char_count": 331,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p353",
+      "page": 353,
+      "normalized_char_count": 373,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p354",
+      "page": 354,
+      "normalized_char_count": 297,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p355",
+      "page": 355,
+      "normalized_char_count": 326,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p356",
+      "page": 356,
+      "normalized_char_count": 344,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p357",
+      "page": 357,
+      "normalized_char_count": 319,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p358",
+      "page": 358,
+      "normalized_char_count": 334,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p359",
+      "page": 359,
+      "normalized_char_count": 115,
+      "included": false,
+      "reason": "cover_toc_lesson_overview_or_notes"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p360",
+      "page": 360,
+      "normalized_char_count": 346,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p361",
+      "page": 361,
+      "normalized_char_count": 345,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p362",
+      "page": 362,
+      "normalized_char_count": 354,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p363",
+      "page": 363,
+      "normalized_char_count": 334,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p364",
+      "page": 364,
+      "normalized_char_count": 305,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p365",
+      "page": 365,
+      "normalized_char_count": 311,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p366",
+      "page": 366,
+      "normalized_char_count": 327,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p367",
+      "page": 367,
+      "normalized_char_count": 315,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p368",
+      "page": 368,
+      "normalized_char_count": 340,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p369",
+      "page": 369,
+      "normalized_char_count": 313,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p370",
+      "page": 370,
+      "normalized_char_count": 342,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p371",
+      "page": 371,
+      "normalized_char_count": 301,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p372",
+      "page": 372,
+      "normalized_char_count": 379,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p373",
+      "page": 373,
+      "normalized_char_count": 333,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p374",
+      "page": 374,
+      "normalized_char_count": 329,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p375",
+      "page": 375,
+      "normalized_char_count": 301,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p376",
+      "page": 376,
+      "normalized_char_count": 330,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p377",
+      "page": 377,
+      "normalized_char_count": 337,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p378",
+      "page": 378,
+      "normalized_char_count": 325,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p379",
+      "page": 379,
+      "normalized_char_count": 357,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p380",
+      "page": 380,
+      "normalized_char_count": 309,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p381",
+      "page": 381,
+      "normalized_char_count": 326,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p382",
+      "page": 382,
+      "normalized_char_count": 325,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p383",
+      "page": 383,
+      "normalized_char_count": 321,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p384",
+      "page": 384,
+      "normalized_char_count": 324,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p385",
+      "page": 385,
+      "normalized_char_count": 315,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p386",
+      "page": 386,
+      "normalized_char_count": 331,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p387",
+      "page": 387,
+      "normalized_char_count": 325,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p388",
+      "page": 388,
+      "normalized_char_count": 107,
+      "included": false,
+      "reason": "cover_toc_lesson_overview_or_notes"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p389",
+      "page": 389,
+      "normalized_char_count": 358,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p390",
+      "page": 390,
+      "normalized_char_count": 380,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p391",
+      "page": 391,
+      "normalized_char_count": 341,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p392",
+      "page": 392,
+      "normalized_char_count": 343,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p393",
+      "page": 393,
+      "normalized_char_count": 334,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p394",
+      "page": 394,
+      "normalized_char_count": 334,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p395",
+      "page": 395,
+      "normalized_char_count": 397,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p396",
+      "page": 396,
+      "normalized_char_count": 383,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p397",
+      "page": 397,
+      "normalized_char_count": 333,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p398",
+      "page": 398,
+      "normalized_char_count": 346,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p399",
+      "page": 399,
+      "normalized_char_count": 339,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p400",
+      "page": 400,
+      "normalized_char_count": 343,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p401",
+      "page": 401,
+      "normalized_char_count": 356,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p402",
+      "page": 402,
+      "normalized_char_count": 374,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p403",
+      "page": 403,
+      "normalized_char_count": 284,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p404",
+      "page": 404,
+      "normalized_char_count": 347,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p405",
+      "page": 405,
+      "normalized_char_count": 313,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p406",
+      "page": 406,
+      "normalized_char_count": 338,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p407",
+      "page": 407,
+      "normalized_char_count": 334,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p408",
+      "page": 408,
+      "normalized_char_count": 315,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p409",
+      "page": 409,
+      "normalized_char_count": 360,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p410",
+      "page": 410,
+      "normalized_char_count": 332,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p411",
+      "page": 411,
+      "normalized_char_count": 304,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p412",
+      "page": 412,
+      "normalized_char_count": 348,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p413",
+      "page": 413,
+      "normalized_char_count": 107,
+      "included": false,
+      "reason": "cover_toc_lesson_overview_or_notes"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p414",
+      "page": 414,
+      "normalized_char_count": 324,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p415",
+      "page": 415,
+      "normalized_char_count": 345,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p416",
+      "page": 416,
+      "normalized_char_count": 316,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p417",
+      "page": 417,
+      "normalized_char_count": 337,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p418",
+      "page": 418,
+      "normalized_char_count": 316,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p419",
+      "page": 419,
+      "normalized_char_count": 347,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p420",
+      "page": 420,
+      "normalized_char_count": 305,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p421",
+      "page": 421,
+      "normalized_char_count": 343,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p422",
+      "page": 422,
+      "normalized_char_count": 303,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p423",
+      "page": 423,
+      "normalized_char_count": 286,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p424",
+      "page": 424,
+      "normalized_char_count": 366,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p425",
+      "page": 425,
+      "normalized_char_count": 312,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p426",
+      "page": 426,
+      "normalized_char_count": 368,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p427",
+      "page": 427,
+      "normalized_char_count": 285,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p428",
+      "page": 428,
+      "normalized_char_count": 342,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p429",
+      "page": 429,
+      "normalized_char_count": 317,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p430",
+      "page": 430,
+      "normalized_char_count": 334,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p431",
+      "page": 431,
+      "normalized_char_count": 371,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p432",
+      "page": 432,
+      "normalized_char_count": 319,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p433",
+      "page": 433,
+      "normalized_char_count": 315,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p434",
+      "page": 434,
+      "normalized_char_count": 336,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p435",
+      "page": 435,
+      "normalized_char_count": 322,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p436",
+      "page": 436,
+      "normalized_char_count": 322,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p437",
+      "page": 437,
+      "normalized_char_count": 339,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p438",
+      "page": 438,
+      "normalized_char_count": 127,
+      "included": false,
+      "reason": "cover_toc_lesson_overview_or_notes"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p439",
+      "page": 439,
+      "normalized_char_count": 274,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p440",
+      "page": 440,
+      "normalized_char_count": 281,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p441",
+      "page": 441,
+      "normalized_char_count": 309,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p442",
+      "page": 442,
+      "normalized_char_count": 321,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p443",
+      "page": 443,
+      "normalized_char_count": 299,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p444",
+      "page": 444,
+      "normalized_char_count": 328,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p445",
+      "page": 445,
+      "normalized_char_count": 333,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p446",
+      "page": 446,
+      "normalized_char_count": 343,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p447",
+      "page": 447,
+      "normalized_char_count": 339,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p448",
+      "page": 448,
+      "normalized_char_count": 373,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p449",
+      "page": 449,
+      "normalized_char_count": 324,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p450",
+      "page": 450,
+      "normalized_char_count": 330,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p451",
+      "page": 451,
+      "normalized_char_count": 301,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p452",
+      "page": 452,
+      "normalized_char_count": 367,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p453",
+      "page": 453,
+      "normalized_char_count": 338,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p454",
+      "page": 454,
+      "normalized_char_count": 311,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p455",
+      "page": 455,
+      "normalized_char_count": 334,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p456",
+      "page": 456,
+      "normalized_char_count": 305,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p457",
+      "page": 457,
+      "normalized_char_count": 331,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p458",
+      "page": 458,
+      "normalized_char_count": 282,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p459",
+      "page": 459,
+      "normalized_char_count": 344,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p460",
+      "page": 460,
+      "normalized_char_count": 338,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p461",
+      "page": 461,
+      "normalized_char_count": 267,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p462",
+      "page": 462,
+      "normalized_char_count": 339,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p463",
+      "page": 463,
+      "normalized_char_count": 331,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p464",
+      "page": 464,
+      "normalized_char_count": 329,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p465",
+      "page": 465,
+      "normalized_char_count": 294,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p466",
+      "page": 466,
+      "normalized_char_count": 302,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p467",
+      "page": 467,
+      "normalized_char_count": 301,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p468",
+      "page": 468,
+      "normalized_char_count": 321,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p469",
+      "page": 469,
+      "normalized_char_count": 336,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p470",
+      "page": 470,
+      "normalized_char_count": 330,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p471",
+      "page": 471,
+      "normalized_char_count": 378,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p472",
+      "page": 472,
+      "normalized_char_count": 372,
+      "included": true,
+      "reason": "kanji_entry"
+    },
+    {
+      "page_id": "kanji_n2_kaori:p473",
+      "page": 473,
+      "normalized_char_count": 1160,
+      "included": false,
+      "reason": "cover_toc_lesson_overview_or_notes"
+    }
+  ],
+  "kanji_entries": 454,
+  "vocabulary_entries": 1764,
+  "extraction_seconds": 8.109,
+  "error_count": 0,
+  "warning_log": "results/extraction_warnings.log",
+  "snapshot": "SHA-256 of supplied PDF"
+}

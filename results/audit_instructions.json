@@ -1,0 +1,6 @@
+{
+  "coherence": "Read each sampled chunk in isolation. 0 broken idea/unintelligible; 1 partially understandable/missing context; 2 self-contained. Same 10 source anchors across A/B/C.",
+  "grounding": "Read top3 for each test question. 0 no relevant evidence; 1 partial/missing condition or requested reading; 2 enough to answer and trace. Do not copy Hit@3 as a score.",
+  "student_review": "AI review is provisional. Student must read source/chunks and enter their own score/reason or explicitly verify with date. Do not relabel AI as human.",
+  "packets": "results/private/*_packet.jsonl hold full text; results/ai_*_review.jsonl hold transparent AI labels."
+}

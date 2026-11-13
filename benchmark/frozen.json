@@ -1,0 +1,11 @@
+{
+  "frozen_at": "2026-11-13T17:07:22.700049+07:00",
+  "questions_sha256": "029e14ac94ecaeecbb6665a56c08972db63e4f359c1eadf3368d48759997e6f6",
+  "config_sha256": "fdc5d48a94dd66a62786435e5128568416a901f2f27a74fa52eec2bfe1d53f44",
+  "corpus_sha256": "d07f7b015bcd6859fb7906bd5c15fa5b62bce710927cbbacacca246b2b4c6ae4",
+  "split_rule": "Dev lessons 01-12; test lessons 13-16. Same document/template; lexical overlap leakage remains possible.",
+  "selection_rule": "On dev only: maximize Evidence Hit@3, then Hit@1, then smaller chunk count, then prefer B over C over A. Freeze before test. No tuning on test.",
+  "source_validation": "Each raw evidence quote checked against extracted PDF page; canonical structural labels checked against normalized entry.",
+  "author": "Codex AI assistant; student review pending",
+  "no_retrieval_seen_at_freeze": true
+}

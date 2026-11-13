@@ -1,0 +1,8 @@
+pypdf>=6,<8
+qdrant-client>=1.15,<2
+sentence-transformers>=5,<7
+
+# Local handwriting UI: SVG template preparation and geometric matching
+svgpathtools>=1.7,<2
+pillow>=11,<14
+scipy>=1.12,<2

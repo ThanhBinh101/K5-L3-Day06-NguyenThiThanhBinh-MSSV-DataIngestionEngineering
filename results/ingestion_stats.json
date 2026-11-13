@@ -1,0 +1,65 @@
+{
+  "A": {
+    "chunk_count": 774,
+    "char_min": 41,
+    "char_max": 220,
+    "char_mean": 153.1627906976744,
+    "total_chars": 118548,
+    "total_tokens": 63191,
+    "max_tokens": 138,
+    "embedding_seconds": 9.896514916967135,
+    "embeddings_reused_from": null,
+    "store_seconds_including_reload": 1.103689166950062,
+    "ingest_seconds": 11.122451375005767,
+    "cost_usd": 0,
+    "reload_check": {
+      "first_count": 774,
+      "after_reload_count": 774,
+      "no_duplicates": true,
+      "update_policy": "Rebuild lab-owned strategy collection; stable UUID upserts within a snapshot."
+    },
+    "persisted_count_after_reopen": 774
+  },
+  "B": {
+    "chunk_count": 454,
+    "char_min": 167,
+    "char_max": 298,
+    "char_mean": 232.92511013215858,
+    "total_chars": 105748,
+    "total_tokens": 54739,
+    "max_tokens": 156,
+    "embedding_seconds": 8.399932416970842,
+    "embeddings_reused_from": null,
+    "store_seconds_including_reload": 0.5432115830481052,
+    "ingest_seconds": 9.052177624951582,
+    "cost_usd": 0,
+    "reload_check": {
+      "first_count": 454,
+      "after_reload_count": 454,
+      "no_duplicates": true,
+      "update_policy": "Rebuild lab-owned strategy collection; stable UUID upserts within a snapshot."
+    },
+    "persisted_count_after_reopen": 454
+  },
+  "C": {
+    "chunk_count": 454,
+    "char_min": 167,
+    "char_max": 298,
+    "char_mean": 232.92511013215858,
+    "total_chars": 105748,
+    "total_tokens": 54739,
+    "max_tokens": 156,
+    "embedding_seconds": 5.9334037359803915e-05,
+    "embeddings_reused_from": "B",
+    "store_seconds_including_reload": 0.45870583300711587,
+    "ingest_seconds": 0.5471614169655368,
+    "cost_usd": 0,
+    "reload_check": {
+      "first_count": 454,
+      "after_reload_count": 454,
+      "no_duplicates": true,
+      "update_policy": "Rebuild lab-owned strategy collection; stable UUID upserts within a snapshot."
+    },
+    "persisted_count_after_reopen": 454
+  }
+}

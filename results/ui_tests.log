@@ -1,0 +1,34 @@
+test_exact_reference_and_reordered_strokes (test_handwriting.HandwritingTests.test_exact_reference_and_reordered_strokes) ... ok
+test_invalid_or_empty_strokes_rejected (test_handwriting.HandwritingTests.test_invalid_or_empty_strokes_rejected) ... ok
+test_missing_dot_suggests_similar_kanji (test_handwriting.HandwritingTests.test_missing_dot_suggests_similar_kanji) ... ok
+test_mouse_drawn_井 (test_handwriting.HandwritingTests.test_mouse_drawn_井) ... ok
+test_reference_coverage (test_handwriting.HandwritingTests.test_reference_coverage) ... ok
+test_single_slot_and_payload_boundaries (test_handwriting.HandwritingTests.test_single_slot_and_payload_boundaries) ... ok
+test_all_han_viet_homophones (test_lookup.LookupTests.test_all_han_viet_homophones) ... ok
+test_automatic_query_kinds (test_lookup.LookupTests.test_automatic_query_kinds) ... ok
+test_expansion_keeps_unknown_words_and_input_boundaries (test_lookup.LookupTests.test_expansion_keeps_unknown_words_and_input_boundaries) ... ok
+test_han_viet_ignores_accents_but_not_other_letters (test_lookup.LookupTests.test_han_viet_ignores_accents_but_not_other_letters) ... ok
+test_han_viet_ignores_tone_and_case (test_lookup.LookupTests.test_han_viet_ignores_tone_and_case) ... ok
+test_lesson_filter (test_lookup.LookupTests.test_lesson_filter) ... ok
+test_many_source_phrases_keep_target_without_accents (test_lookup.LookupTests.test_many_source_phrases_keep_target_without_accents) ... ok
+test_query_expansion_preserves_explicit_accents (test_lookup.LookupTests.test_query_expansion_preserves_explicit_accents) ... ok
+test_semantic_expansion_includes_accented_paraphrase (test_lookup.LookupTests.test_semantic_expansion_includes_accented_paraphrase) ... ok
+test_single_kanji_has_only_containing_words (test_lookup.LookupTests.test_single_kanji_has_only_containing_words) ... ok
+test_tone_exact_results_precede_similar_sounds (test_lookup.LookupTests.test_tone_exact_results_precede_similar_sounds) ... ok
+test_unaccented_meaning_queries (test_lookup.LookupTests.test_unaccented_meaning_queries) ... ok
+test_unaccented_mnemonic_descriptions (test_lookup.LookupTests.test_unaccented_mnemonic_descriptions) ... ok
+test_unaccented_text_respects_lesson (test_lookup.LookupTests.test_unaccented_text_respects_lesson) ... ok
+test_unknown_word_does_not_decompose_into_characters (test_lookup.LookupTests.test_unknown_word_does_not_decompose_into_characters) ... ok
+test_unknown_word_has_correction_candidates (test_lookup.LookupTests.test_unknown_word_has_correction_candidates) ... ok
+test_word_only_matching_vocabulary (test_lookup.LookupTests.test_word_only_matching_vocabulary) ... ok
+test_corpus_and_gold (test_pipeline.PipelineTests.test_corpus_and_gold) ... ok
+test_fixed_chunk_covers_every_character (test_pipeline.PipelineTests.test_fixed_chunk_covers_every_character) ... ok
+test_qdrant_filter_and_reload_real_backend (test_pipeline.PipelineTests.test_qdrant_filter_and_reload_real_backend) ... /Users/eroheta/Documents/K5-L3-Day06-NguyenThiThanhBinh-MSSV-DataIngestionEngineering/src/store.py:40: UserWarning: Local mode performs exact (brute-force) search, so `search_params` has no effect, with the exception of `idf`.
+  points = client.query_points(collection_name=f'kanji_{strategy}',query=vector.tolist(),
+ok
+test_single_chunk_evidence_cannot_cross_boundary (test_pipeline.PipelineTests.test_single_chunk_evidence_cannot_cross_boundary) ... ok
+
+----------------------------------------------------------------------
+Ran 27 tests in 1.479s
+
+OK

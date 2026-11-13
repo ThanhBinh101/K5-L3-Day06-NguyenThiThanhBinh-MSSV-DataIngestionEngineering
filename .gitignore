@@ -2,9 +2,16 @@ __pycache__/
 .venv/
 .env
 *.pyc
-
 .env.*
 !.env.example
 .DS_Store
 .pytest_cache/
 *.sqlite
+.local/
+data/raw/
+data/processed/
+# Full retrieval outputs contain excerpts from the user-supplied PDF. Keep local until rights confirmed.
+results/private/
+
+# The live server log changes during local use; measured QA logs remain tracked.
+results/ui_server.log

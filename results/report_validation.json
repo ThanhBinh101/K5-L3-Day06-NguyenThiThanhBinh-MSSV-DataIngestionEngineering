@@ -1,0 +1,25 @@
+{
+  "checked_at": "2026-11-13T19:04:24.102847+07:00",
+  "report": "report/individual/2A202603497_NguyenThiThanhBinh.md",
+  "benchmark_hashes_valid": true,
+  "metrics_match_saved_artifacts": true,
+  "local_links_exist": true,
+  "student_class": "L3A",
+  "ui_tests_passed": 27,
+  "live_search_cases": 13,
+  "student_audit": {
+    "coherence": {
+      "total": 30,
+      "student_scored": 0
+    },
+    "grounding": {
+      "total": 15,
+      "student_scored": 0
+    },
+    "metadata": {
+      "total": 45,
+      "student_scored": 0
+    }
+  },
+  "ready_to_claim_human_audit": false
+}

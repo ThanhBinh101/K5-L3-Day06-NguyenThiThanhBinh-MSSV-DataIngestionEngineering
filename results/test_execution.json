@@ -1,0 +1,6 @@
+{
+  "executed_at": "2026-11-13T17:12:06.117671+07:00",
+  "selection_frozen_at": "2026-11-13T17:12:06.104264+07:00",
+  "no_test_tuning": true,
+  "note": "Re-running unchanged inputs is reproducibility checking, not a fresh independent test."
+}

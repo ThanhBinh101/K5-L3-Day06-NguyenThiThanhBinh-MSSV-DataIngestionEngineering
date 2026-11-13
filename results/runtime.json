@@ -1,0 +1,35 @@
+{
+  "ran_at": "2026-11-13T17:11:49.804649+07:00",
+  "python": "3.12.2 (v3.12.2:6abddd9f6a, Feb  6 2024, 17:02:06) [Clang 13.0.0 (clang-1300.0.29.30)]",
+  "platform": "macOS-26.5.1-arm64-arm-64bit",
+  "packages": {
+    "pypdf": "7.0.1",
+    "qdrant-client": "1.20.0",
+    "sentence-transformers": "6.3.0",
+    "torch": "2.15.0",
+    "transformers": "5.22.2",
+    "numpy": "2.5.4"
+  },
+  "model": {
+    "model": "intfloat/multilingual-e5-small",
+    "revision": "614241f622f53c4eeff9890bdc4f31cfecc418b3",
+    "downloaded_at": "2026-11-13T17:10:16.344830+07:00",
+    "license": "MIT",
+    "dimensions": 384
+  },
+  "device": "cpu",
+  "seed": 0,
+  "store": "Qdrant local persistent",
+  "store_path": ".local/qdrant",
+  "collections": [
+    "kanji_A",
+    "kanji_B",
+    "kanji_C"
+  ],
+  "distance": "cosine",
+  "search": "exact",
+  "paid_api_cost_usd": 0,
+  "electricity_and_hardware_cost": "not measured",
+  "corpus_sha256": "d07f7b015bcd6859fb7906bd5c15fa5b62bce710927cbbacacca246b2b4c6ae4",
+  "config_sha256": "fdc5d48a94dd66a62786435e5128568416a901f2f27a74fa52eec2bfe1d53f44"
+}

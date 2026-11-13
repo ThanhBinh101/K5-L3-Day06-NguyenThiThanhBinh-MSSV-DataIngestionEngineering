@@ -1,0 +1,24 @@
+{
+  "checked_at": "2026-11-13T18:28:25.813342+07:00",
+  "writing_cells": 1,
+  "manual_mode_buttons": false,
+  "unit_tests_passed": 17,
+  "han_viet_tinh": [
+    "井",
+    "省"
+  ],
+  "correction_for_資額": [
+    "額",
+    "高額",
+    "金額",
+    "資金",
+    "資源",
+    "資料"
+  ],
+  "query_kinds": {
+    "井": "kanji",
+    "TỈNH": "han_viet",
+    "miễn thuế": "semantic",
+    "Cái giếng 2 tầng": "mnemonic"
+  }
+}

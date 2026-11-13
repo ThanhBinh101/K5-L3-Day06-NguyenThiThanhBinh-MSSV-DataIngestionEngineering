@@ -1,0 +1,15 @@
+{
+  "checked_at": "2026-11-13T17:55:55.771514+07:00",
+  "url": "http://127.0.0.1:8766",
+  "healthy": true,
+  "eight_slots_api": true,
+  "filter_lesson16_and_exact_word": true,
+  "invalid_payload_rejected": true,
+  "cross_origin_post_rejected": true,
+  "private_file_routes_not_exposed": true,
+  "browser_mouse_井_lookup_page4": true,
+  "browser_undo_and_clear": true,
+  "browser_console_errors": 0,
+  "unit_tests_passed": 10,
+  "limitations": "Shape matching within 454 corpus Kanji; no human handwriting accuracy benchmark. Desktop browser verified, touch handlers implemented but not tested on a physical touch device."
+}

@@ -1,0 +1,11 @@
+test_corpus_and_gold (test_pipeline.PipelineTests.test_corpus_and_gold) ... ok
+test_fixed_chunk_covers_every_character (test_pipeline.PipelineTests.test_fixed_chunk_covers_every_character) ... ok
+test_qdrant_filter_and_reload_real_backend (test_pipeline.PipelineTests.test_qdrant_filter_and_reload_real_backend) ... /Users/eroheta/Documents/K5-L3-Day06-NguyenThiThanhBinh-MSSV-DataIngestionEngineering/src/store.py:40: UserWarning: Local mode performs exact (brute-force) search, so `search_params` has no effect, with the exception of `idf`.
+  points = client.query_points(collection_name=f'kanji_{strategy}',query=vector.tolist(),
+ok
+test_single_chunk_evidence_cannot_cross_boundary (test_pipeline.PipelineTests.test_single_chunk_evidence_cannot_cross_boundary) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.031s
+
+OK
